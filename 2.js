@@ -20,5 +20,5 @@ var login; /// Что-бы убрать собщение ReferenceError: login i
 // задекларируем переменную login. (Логично предположить, что переменная login должна быть задекларирована раньше в коде.)
 
 message = (login == 'Pitter') ? 'Hi' : 
-                                (login == 'Owner') ? message = 'Hello' :
-                                                    (login == '') ? message = 'unknown' : message = '';
+          (login == 'Owner') ? message = 'Hello' :
+          (login == '') ? message = 'unknown' : message = '';
