@@ -22,4 +22,4 @@ for (let i = 0; i < arr.length-1; i++) {
     }   
 }
 
-console.dir(arr);
+console.dir(arr); 
