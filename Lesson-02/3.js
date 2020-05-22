@@ -18,7 +18,7 @@
 //     default:
 //         console.log('unknown');
 // }
-
+ 
 ////////////////// Решение //////////////////
 const value = 'c';
 
